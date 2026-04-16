@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "userId": 2,
+    "product": "모니터",
+    "quantity": 1,
+    "totalPrice": 2000000,
+    "status": "배송중"
+  },
+  {
+    "id": 2,
+    "userId": 3,
+    "product": "무선마우스",
+    "quantity": 2,
+    "totalPrice": 64000,
+    "status": "배송완료"
+  },
+  {
+    "id": 3,
+    "userId": 2,
+    "product": "USB 메모리",
+    "quantity": 3,
+    "totalPrice": 45000,
+    "status": "결제완료"
+  }
+]
