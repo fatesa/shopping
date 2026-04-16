@@ -1,9 +1,5 @@
 import products from '../data/products.json'
-import mouse from '../assets/mouse.png'
-import keyboard from '../assets/keyboard.png'
-import usb from '../assets/usb.png'
-import monitor from '../assets/monitor.png'
-import { Link, useParams } from 'react-router-dom'
+import { useParams } from 'react-router-dom'
 import {imageMap} from './ProductList'
 
 /*  

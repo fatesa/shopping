@@ -31,7 +31,7 @@ function App() {
   return (
     <>
       <section className="app">
-        <BrowserRouter>
+        <BrowserRouter basename='/shopping/'>
           <Header 
             isLoggedIn={isLoggedIn} 
             onLogout={handleLogout}
